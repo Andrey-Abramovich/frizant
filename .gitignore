@@ -1,0 +1,8 @@
+.idea
+/venv
+/media/video/
+/media/image/
+/media/uploads/
+/.vscode
+environ.py
+/credent/
